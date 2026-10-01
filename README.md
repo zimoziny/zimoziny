@@ -1,20 +1,14 @@
-### 🎯 Interests & Focus Areas
+### 🌱 Currently Learning
 
-* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" width="18" height="18"> **Data Analysis & Visualization:** Exploratory Data Analysis (EDA), Statistical Analysis, Interactive Dashboards, Data Storytelling
-* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" width="18" height="18"> **Data Engineering:** Data Collection & Web Crawling, Data Cleaning & Preprocessing, ETL Pipelines, Database Design (SQL)
-* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" width="18" height="18"> **Machine Learning:** Predictive Modeling, Classification & Regression, Feature Engineering, Model Evaluation
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" width="18" height="18"> **Python for Data:** Pandas, NumPy, Matplotlib, Seaborn
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5c3_fe0f/512.webp" width="18" height="18"> **SQL & Databases:** Querying, Joins, Aggregation, Database Design
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.webp" width="18" height="18"> **Statistics:** Descriptive Statistics, Hypothesis Testing, Probability
 
 <br>
 
-### 🗂️ Projects, Awards & Certifications
+### 🗺️ Roadmap & Goals
 
-#### 🚀 Projects
-* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4dd/512.webp" width="16" height="16"> **[Project Name]** — [What problem you solved] using [Python, Pandas, etc.]. [Result, e.g., "Achieved 87% accuracy" / "Visualized 3 years of data"], [2026]. ([GitHub Link](https://github.com/YOUR_ID/REPO))
-* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50d/512.webp" width="16" height="16"> **[Project Name]** — [Short description]. [Team / Individual], [Course or Club name], [2025].
-
-#### 🏆 Awards
-* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" width="16" height="16"> **[Award Name]**, [Competition / Hackathon Name], [Organizer], [Year].
-
-#### 📜 Certifications
-* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4dc/512.webp" width="16" height="16"> **[e.g., ADsP (Advanced Data Analytics Semi-Professional)]**, [Issuer], [Year].
-* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4dc/512.webp" width="16" height="16"> **[e.g., SQLD (SQL Developer)]**, [Issuer], [Year].
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" width="16" height="16"> Complete my first end-to-end data analysis project using public datasets
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" width="16" height="16"> Participate in a Kaggle competition or data analysis contest
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4dc/512.webp" width="16" height="16"> Earn data certifications (ADsP, SQLD)
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4dd/512.webp" width="16" height="16"> Document and share everything I learn here on GitHub
